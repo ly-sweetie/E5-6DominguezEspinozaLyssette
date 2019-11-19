@@ -1,0 +1,12 @@
+C:\Users\lyss_\source\repos\Examen5-6\Examen5-6\bin\Debug\Examen5-6.exe.config
+C:\Users\lyss_\source\repos\Examen5-6\Examen5-6\bin\Debug\Examen5-6.exe
+C:\Users\lyss_\source\repos\Examen5-6\Examen5-6\bin\Debug\Examen5-6.pdb
+C:\Users\lyss_\source\repos\Examen5-6\Examen5-6\obj\Debug\Examen5-6.csprojAssemblyReference.cache
+C:\Users\lyss_\source\repos\Examen5-6\Examen5-6\obj\Debug\Examen5_6.Form1.resources
+C:\Users\lyss_\source\repos\Examen5-6\Examen5-6\obj\Debug\Examen5_6.Properties.Resources.resources
+C:\Users\lyss_\source\repos\Examen5-6\Examen5-6\obj\Debug\Examen5-6.csproj.GenerateResource.cache
+C:\Users\lyss_\source\repos\Examen5-6\Examen5-6\obj\Debug\Examen5-6.csproj.CoreCompileInputs.cache
+C:\Users\lyss_\source\repos\Examen5-6\Examen5-6\obj\Debug\Examen5-6.exe
+C:\Users\lyss_\source\repos\Examen5-6\Examen5-6\obj\Debug\Examen5-6.pdb
+C:\Users\lyss_\source\repos\Examen5-6\Examen5-6\obj\Debug\Examen5_6.InfoTarea.resources
+C:\Users\lyss_\source\repos\Examen5-6\Examen5-6\obj\Debug\Examen5_6.Texto.resources
